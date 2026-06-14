@@ -5,6 +5,7 @@
 # - BH/FDR correction (correct those p-values using Benjamini-Hochberg false discovery rate) 
 # - Black outline where FDR < 0.05
 # - Grey cells for upper triangle / diagonal
+# - Code developed by Sarita Bugalia, May 2026
 # ============================================================
 
 library(readxl) # reads Excel files
