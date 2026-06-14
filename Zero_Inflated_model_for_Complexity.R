@@ -8,6 +8,7 @@
 #   3) Zero-inflated COM-Poisson (ZICOMP)
 #
 #   - Non-linear functions for Flow, Width, Rain Day Before and Day of
+#   - Code developed by Sarita Bugalia, May 2026
 # ============================================================
 
 # -------------------------------
